@@ -1,0 +1,10 @@
+bazel-*
+*.sw*
+.DS_Store
+*/__pycache__/*
+compile_commands.json
+*.pyc
+/logs
+*.log
+*.aux
+.vs/
